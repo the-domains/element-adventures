@@ -1,0 +1,28 @@
+name: Element Adventures
+favicon: null
+layout_spectrum: 0.3908322365023196
+typography_spectrum: 0.7226722685154527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8748320525046438
+  lightness: 0.14742693840526044
+  saturation: 0.13604035298340023
+  rhythmicContrast: 0.6994153300765902
+purpose: []
